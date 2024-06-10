@@ -20,16 +20,19 @@ The following programs, applications, and drivers were successfully used for pac
 
 1. Python 3.8.10
 2. pip 24.0
-2. Git 2.45.2
-3. NI-VISA 14.0.0
-4. NI-VISA Runtime 14.0.0
-5. NI-488.2 14.0
-6. NI-488.2 Runtime 14.0
-7. PyCharm 2019.3.5 (Community Edition)
-8. Notepad++ 8.6.8
+3. Git 2.45.2
+4. NI-VISA 14.0.0
+5. NI-VISA Runtime 14.0.0
+6. NI-488.2 14.0
+7. NI-488.2 Runtime 14.0
+8. PyCharm 2019.3.5 (Community Edition)
+9. Notepad++ 8.6.8
+
+In principle, the text editor and IDE (Notepad++ and PyCharm) are not explicitly critical to the success of the package.
+All other programs, applications, and drivers listed are critical to the success of the package on Windows 7.
 
 A file named `requirements-win7.txt` is included with the project with an output of the installed packages
-that were tested successfully in Windows 7.
+that were tested successfully in Windows 7 (64-bit).
 
 
 ## Usage
