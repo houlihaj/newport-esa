@@ -2,10 +2,12 @@
 A Python API for the Newport Model ESA-C Ultra-Resolution Actuator Controller.
 
 ## Overview
-The source code and example scripts have been tested using Python 3.8.10 running in Windows 7.
+The source code and example scripts have been tested using Python 3.8.10 running in Windows 7 (64-bit).
+
+The only operating system supported in this release is Windows 7 (64-bit).
 
 1. Project Homepage: https://github.com/houlihaj/newport-esa
-1. Download Page:
+1. Download Page: https://pypi.org/project/newport-esa/
 
 ## Requirements
 
